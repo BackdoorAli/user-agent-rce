@@ -1,5 +1,5 @@
 <?php
-// SECURE: Sanitized logging of User-Agent input.
+// SECURE: Sanitised logging of User-Agent input.
 
 $ua = $_SERVER['HTTP_USER_AGENT'];
 $escaped_ua = escapeshellarg($ua);
