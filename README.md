@@ -63,4 +63,4 @@ Re-running the same exploit will now produce no harmful effects.
 
 ## Disclaimer
 
-This project is for educational and awareness purposes only. Do NOT deploy the vulnerable server in a production environment or expose it to the internet. Always sanitize user input and never directly inject user data into system commands.
+This project is for educational and awareness purposes only. Do NOT deploy the vulnerable server in a production environment or expose it to the internet. Always sanitize user input and NEVER directly inject user data into system commands, without the proper authorisation!
