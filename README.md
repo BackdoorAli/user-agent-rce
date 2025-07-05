@@ -3,7 +3,7 @@
 This project demonstrates how an insecure use of the `User-Agent` HTTP header can lead to Remote Command Execution (RCE) if not properly sanitised. It includes:
 
 - A vulnerable PHP server that logs headers unsafely using `system()`
-- A secure version with input sanitization
+- A secure version with input sanitation
 - A Python-based exploit tool that simulates an attack
 - Defensive guidelines and mitigation recommendations
 
