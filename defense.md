@@ -60,7 +60,7 @@ Deploy a WAF to detect and block:
 ---
 
 ### 5. **File Integrity Monitoring**
-Watch `/tmp`, `/var/log`, and custom directories for unauthorized file changes.
+Watch `/tmp`, `/var/log`, and custom directories for unauthorised file changes.
 
 ---
 
