@@ -17,7 +17,7 @@ User-Agent: zerodium; id
 ```
 
 This can lead to:
-- Unauthorized command execution
+- Unauthorised command execution
 - Data exfiltration
 - Server compromise
 
