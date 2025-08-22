@@ -31,7 +31,7 @@ This can lead to:
 
 ---
 
-### 2. **Input Sanitization**
+### 2. **Input Sanitisation**
 If system calls are unavoidable:
 
 ```php
