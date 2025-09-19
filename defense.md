@@ -10,7 +10,7 @@ GitHub: [BackdoorAli](https://github.com/BackdoorAli)
 
 ## Vulnerability Overview
 
-Unsanitised use of the `User-Agent` header in system commands allows attackers to inject payloads, much like:
+Unsanitised use of the `User-Agent` header in system commands allows attackers to inject payloads, such as, for example:
 
 ```
 User-Agent: zerodium; id
