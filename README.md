@@ -1,4 +1,4 @@
-# User-Agent Remote Command Injection (RCE)
+# User-Agent Remote Command Injection
 
 This project demonstrates how an insecure use of the `User-Agent` HTTP header can lead to Remote Command Execution (RCE) if not properly sanitised. It includes:
 
