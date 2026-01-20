@@ -26,7 +26,7 @@ This can lead to:
 ## Mitigation Techniques
 
 ### 1. **Avoid Shell Execution**
-- **Do not use `system()`** or similar shell functions (`exec`, `passthru`, `popen`) with unsanitized input.
+- **Do not use `system()`** or similar shell functions (`exec`, `passthru`, `popen`) with unsanitised input.
 - If shell execution is necessary, strictly control all input.
 
 ---
